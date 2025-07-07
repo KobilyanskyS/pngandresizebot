@@ -16,7 +16,7 @@
 
 1. Склонируйте репозиторий или скачайте код:
    ```sh
-   git clone https://github.com/your-repo/telegram-image-bot.git
+   git clone https://github.com/KobilyanskyS/pngandresizebot
    cd telegram-image-bot
    ```
 
