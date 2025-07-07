@@ -17,7 +17,7 @@
 1. Склонируйте репозиторий или скачайте код:
    ```sh
    git clone https://github.com/KobilyanskyS/pngandresizebot
-   cd telegram-image-bot
+   cd pngandresizebot
    ```
 
 2. Создайте и активируйте виртуальное окружение (опционально, но рекомендуется):
